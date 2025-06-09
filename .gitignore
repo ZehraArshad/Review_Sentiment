@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+venv/
+env/
+
+# Google credentials
+credentials.json
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# macOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Selenium / webdriver downloads (just in case)
+*.log
+chromedriver.exe
+chromedriver.log
+
+# VS Code settings (optional)
+.vscode/
