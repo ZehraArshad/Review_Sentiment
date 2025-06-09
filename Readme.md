@@ -1,10 +1,15 @@
 ## Daraz Product Reviews Sentiment Analysis
 
+
+
 ### Project Goal
 
 - Building a pipeline that scrapes reviews from an e-commerce site and performs sentiment analysis on those reviews.
 
 ---
+### Video Demo 
+
+[Demo](https://drive.google.com/file/d/1UUf1N2GPjx3T5hd3NT-YymrCh4rxzj1Y/view?usp=sharing)
 
 ### How to Run?
 
